@@ -1,0 +1,25 @@
+_repo: Fine-crochet-and-tatting_71438
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Company, The Spool Cotton
+    gutenberg_agent_id: '56234'
+    url: http://www.gutenberg.org/2009/agents/56234
+description: ''
+gutenberg_issued: '2023-08-18'
+identifiers:
+  gutenberg: '71438'
+language: en
+pgterms:marc905: 20230410153033thespoolco
+pgterms:marc906: '1949'
+pgterms:marc907: US
+production_note: Bob Taylor, Lisa Corcoran, Charlene Taylor and the Online Distributed
+  Proofreading Team at https://www.pgdp.net
+publication_note: '  $aNew York :$bThe Spool Cotton Company, $c1949.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Fine crochet and tatting
+url: http://www.gutenberg.org/ebooks/71438
