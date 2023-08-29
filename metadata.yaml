@@ -1,11 +1,16 @@
 _repo: Fine-crochet-and-tatting_71438
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71438-h/images/backcover.jpg
 creator:
   author:
     agent_name: Company, The Spool Cotton
     gutenberg_agent_id: '56234'
     url: http://www.gutenberg.org/2009/agents/56234
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71438#Fine-crochet-and-tatting
 gutenberg_issued: '2023-08-18'
 identifiers:
   gutenberg: '71438'
